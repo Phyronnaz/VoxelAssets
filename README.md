@@ -11,3 +11,29 @@ In other words, you need to add **Acaitart** to your game credits.
 </a>
 
 # Screenshots
+
+![title](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/title.png)
+
+![test map](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/qmagnet_test_map.png)
+
+![grass](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_grass.png)
+
+![desert](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_desert.png)
+
+![snow](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_snow.png)
+
+![swamp](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_swamp.png)
+
+![taiga](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_taiga.png)
+
+![mushrooms](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_mushrooms.png)
+
+![night](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/night.png)
+
+![village](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/village.png)
+
+![armor](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/armor.png)
+
+![nether](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/nether.png)
+
+![end](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/end.png)
