@@ -12,28 +12,28 @@ In other words, you need to add **Acaitart** to your game credits.
 
 # Screenshots
 
-![title](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/title.png)
+![title](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/title.png)
 
-![test map](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/qmagnet_test_map.png)
+![test map](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/qmagnet_test_map.png)
 
-![grass](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_grass.png)
+![grass](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/landscape_grass.png)
 
-![desert](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_desert.png)
+![desert](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/landscape_desert.png)
 
-![snow](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_snow.png)
+![snow](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/landscape_snow.png)
 
-![swamp](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_swamp.png)
+![swamp](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/landscape_swamp.png)
 
-![taiga](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_taiga.png)
+![taiga](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/landscape_taiga.png)
 
-![mushrooms](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/landscape_mushrooms.png)
+![mushrooms](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/landscape_mushrooms.png)
 
-![night](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/night.png)
+![night](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/night.png)
 
-![village](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/village.png)
+![village](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/village.png)
 
-![armor](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/armor.png)
+![armor](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/armor.png)
 
-![nether](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/nether.png)
+![nether](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/nether.png)
 
-![end](https://raw.githubusercontent.com/Phyronnaz/GoodVibes/master/screenshots/end.png)
+![end](https://raw.githubusercontent.com/Phyronnaz/VoxelAssets/master/GoodVibes/screenshots/end.png)
